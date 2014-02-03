@@ -1,0 +1,8 @@
+{
+    "name":  "D&R_Retirement",
+    "version": "0.0.1",
+    "dependencies": {
+        "reveal": "latest"
+    }
+}
+
